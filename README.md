@@ -59,7 +59,7 @@ I'm 34 years old and I'm a beginner full stack web developer eager to learn more
 ## Currently learning:
 
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;
-[<img width="45px" color:"white" style="margin-right: 10px; color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>](https://www.typescriptlang.org/)&emsp;
+[<img width="45px"  style="margin-right: 10px"; style:"color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>](https://www.typescriptlang.org/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)&emsp;
           
 
