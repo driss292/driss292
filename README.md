@@ -34,4 +34,26 @@ I'm 34 years old and I'm a beginner full stack web developer eager to learn more
 )&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://i.imgur.com/Dns5wR8.png"/>](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinvL2kouT2AhUDkGgJHUxDBa8YABAAGgJ3Zg&ae=2&ohost=www.google.com&cid=CAESbeD23mskK7WJc5I496zyIxMNz8PBJEayKj3gXcKvDRmSxScTK2dhJf_QAI2clNSmzS1y-aGel6o2LfD9kfQdlAhLNp-4Pl7IU2lyrctI0xgxoxrcvKjG6EJlsxchogyWUtkITQYY6eg2XsdM-po&sig=AOD64_3f6MI0kU_yx-KJnwxLxVPZmsvONw&q&adurl&ved=2ahUKEwjUjLWkouT2AhVDzIUKHSCVASUQ0Qx6BAgCEAE)&emsp;
 
+<hr/>
+
+# The tools I use:
+
+[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>](https://git-scm.com/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>](https://www.figma.com/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>](https://slack.com/intl/fr-fr/)&emsp;
+
+<hr/>
+
+## Currently learning:
+
+[<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;
+[<img width="45px" style="margin-right: 10px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)"/>](https://www.typescriptlang.org/)&emsp;
+
+
+          
+
+
+
+
 
