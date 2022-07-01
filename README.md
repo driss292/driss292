@@ -42,7 +42,7 @@ I'm 34 years old and I'm a beginner full stack web developer eager to learn more
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>](https://git-scm.com/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>](https://www.figma.com/)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>](https://slack.com/intl/fr-fr/)&emsp;
-[<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dbu3ntrbw/image/upload/v1656675980/svgexport-1_2_hiq6iu.svg"/>]&emsp;
+<img width="45px" style="margin-right: 10px" src="https://res.cloudinary.com/dbu3ntrbw/image/upload/v1656675980/svgexport-1_2_hiq6iu.svg"/>&emsp;
 
 
 
