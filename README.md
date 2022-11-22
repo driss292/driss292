@@ -59,10 +59,7 @@ I'm 34 years old and I'm a beginner full stack web developer eager to learn more
 
 <hr/>
 
-## Currently learning:
 
-
-[<img width="45px"  style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>](https://php.net/)&emsp;
 
           
 
