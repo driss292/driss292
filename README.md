@@ -1,5 +1,12 @@
-# 💫 About Me:
-🌱 I’m currently learning React and React Native with Typescript
+### Hello, moi c'est Driss 🃏
+
+# 🔭 À propos de moi:
+Après plusieurs expériences dans divers secteurs tels que le transport de marchandises 🚛, le poker 🃏 ainsi que la distribution automatique ☕️, j’ai découvert une vraie passion pour la programmation informatique lors du premier confinement 😷.
+
+Depuis mai 2024, je suis en formation chez Ada Tech School 🚀 pour obtenir un diplôme RNCP de niveau 6 (Bac +3/+4) en développement web et application fullstack.
+
+Je recherche une alternance de 12 mois à partir de mars 2025 ,rythme de 4 jours en entreprise / 1 jour à l’école, pour combiner apprentissage continu et bonnes pratiques d’entreprise auprès de professionnels.
+
 
 
 ## 🌐 Socials:
